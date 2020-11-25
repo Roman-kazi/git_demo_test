@@ -1,10 +1,7 @@
 roman
 mayuresh
 tejas
-<<<<<<< HEAD
 swanand
 suraj
-=======
 gaurav
 ninad
->>>>>>> eea5a5c5c2909f85effb8a9b0c5ff35982460743
